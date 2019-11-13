@@ -1,0 +1,42 @@
+{
+	"zook" : {
+		"name" : "Zook",
+		"race" : "Gnome",
+		"class" : "Wizard Lv7",
+		"location" : "Rath",
+		"killer": "a revenant",
+		"fwords": "-"
+	},
+	"talos" : {
+		"name" : "Talos",
+		"race" : "Tortle",
+		"class" : "Warlock Lv2",
+		"location" : "Ahmer Ait",
+		"killer": "an ogre",
+		"fwords": "ωχ ένα πόδι"
+	},
+	"aerion" : {
+		"name" : "Aerion",
+		"race" : "Dragonborn",
+		"class" : "Paladin Lv3",
+		"location" : "Ahmer Ait",
+		"killer": "Avrani",
+		"fwords": "Σας είπα δεν έπρεπε να μπούμε"
+	},
+	"lampinho" : {
+		"name" : "Lampinho",
+		"race" : "Dragonborn",
+		"class" : "Fighter Lv2",
+		"location" : "the forgotten temple at Ahmer Ait",
+		"killer": "an ogre, after tripping on an unconcious ally",
+		"fwords": "ωχ σκατά"
+	},
+	"morthos" : {
+		"name" : "Morthos",
+		"race" : "Tiefling",
+		"class" : "Warlock Lv7",
+		"location" : "Rath",
+		"killer": "a revenant",
+		"fwords": "-"
+	}
+}
