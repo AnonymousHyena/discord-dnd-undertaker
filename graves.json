@@ -5,8 +5,8 @@
 		"class" : "Wizard Lv7",
 		"location" : "Rath",
 		"killer": "a revenant",
-		"fwords": "-"
-	},
+		"fwords": "I got this"
+	}
 	"talos" : {
 		"name" : "Talos",
 		"race" : "Tortle",
@@ -38,5 +38,13 @@
 		"location" : "Rath",
 		"killer": "a revenant",
 		"fwords": "-"
+	},
+	"puck" : {
+		"name" : "Puck",
+		"race" : "Half-Elf",
+		"class" : "Fighter Lv5",
+		"location" : "the Obvious Labs at Ahmer Ait",
+		"killer": "Nakul",
+		"fwords": "φτου"
 	}
 }
