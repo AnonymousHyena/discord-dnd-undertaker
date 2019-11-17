@@ -50,7 +50,7 @@
 	"wizkay" : {
 		"name" : "Wizkay",
 		"race" : "Half-Elf",
-		"class" : "Warlock\Wizard Lv2\4",
+		"class" : "Warlock/Wizard Lv2/4",
 		"location" : "the Obvious Labs at Ahmer Ait",
 		"killer": "Vaalak",
 		"fwords": "-"
