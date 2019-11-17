@@ -39,12 +39,20 @@
 		"killer": "a revenant",
 		"fwords": "-"
 	},
-	"puck" : {
-		"name" : "Puck",
+	"pac" : {
+		"name" : "Pac",
 		"race" : "Half-Elf",
 		"class" : "Fighter Lv5",
 		"location" : "the Obvious Labs at Ahmer Ait",
 		"killer": "Nakul",
 		"fwords": "φτου"
+	},
+	"wizkay" : {
+		"name" : "Wizkay",
+		"race" : "Half-Elf",
+		"class" : "Warlock\Wizard Lv2\4",
+		"location" : "the Obvious Labs at Ahmer Ait",
+		"killer": "Vaalak",
+		"fwords": "-"
 	}
 }
