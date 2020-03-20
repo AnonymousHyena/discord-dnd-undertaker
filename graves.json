@@ -54,5 +54,37 @@
 		"location" : "the Obvious Labs at Ahmer Ait",
 		"killer": "Vaalak",
 		"fwords": "-"
+	},
+	"gala" : {
+		"name" : "Gala",
+		"race" : "Elf",
+		"class" : "Wizard Lv1",
+		"location" : "old ruins in Ea",
+		"killer": "Undead warrior of old",
+		"fwords": "-"
+	},
+	"loramae" : {
+		"name" : "Loramae",
+		"race" : "Half-Elf",
+		"class" : "Ranger Lv2",
+		"location" : "old ruins in Ea",
+		"killer": "Poisoned Tempest",
+		"fwords": "-"
+	},
+	"ivar" : {
+		"name" : "Ivar the Black",
+		"race" : "Tiefling",
+		"class" : "Paladin Lv2",
+		"location" : "old ruins in Ea",
+		"killer": "Poisoned Tempest",
+		"fwords": "-"
+	},
+	"pitaa" : {
+		"name" : "Pitaa Polla",
+		"race" : "Hafling",
+		"class" : "Monk Lv2",
+		"location" : "old ruins in Ea",
+		"killer": "Poisoned Tempest",
+		"fwords": "-"
 	}
 }
